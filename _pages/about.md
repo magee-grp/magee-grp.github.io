@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>DDLS, MIMS, IceLab.</a>
+subtitle:
 
 profile:
   align: right
