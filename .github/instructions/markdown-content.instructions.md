@@ -1,5 +1,5 @@
 ---
-applyTo: "_books/**/*.md,_news/**/*.md,_pages/**/*.md,_posts/**/*.md,_projects/**/*.md,_teachings/**/*.md"
+applyTo: "_news/**/*.md,_pages/**/*.md,_posts/**/*.md,_projects/**/*.md,_teachings/**/*.md"
 ---
 
 # Content Files (Markdown) Instructions
@@ -8,7 +8,6 @@ applyTo: "_books/**/*.md,_news/**/*.md,_pages/**/*.md,_posts/**/*.md,_projects/*
 
 Content in al-folio is organized by type:
 
-- **\_books/** – Book reviews and summaries
 - **\_news/** – News/announcements
 - **\_pages/** – Static pages (about, CV, publications, projects, etc.)
 - **\_posts/** – Blog posts (format: `YYYY-MM-DD-title.md`)
@@ -19,40 +18,16 @@ Content in al-folio is organized by type:
 
 Every markdown file requires YAML frontmatter at the top. The structure varies by content type.
 
-### Book Frontmatter (\_books/)
-
-```yaml
 ---
-layout: book-review
-title: Book Title
-author: Book Author Name
-publisher: Publisher Name
-year: 2023
-rating: 8/10
-img: /assets/img/book-cover.jpg
----
-```
 
-### News Frontmatter (\_news/)
-
-```yaml
----
-layout: post
-title: News Title
-date: YYYY-MM-DD
----
-```
-
-### Page Frontmatter (\_pages/)
-
-```yaml
----
 layout: page
 title: Page Title
 permalink: /pathname/
 description: Brief description for metadata
+
 ---
-```
+
+````
 
 ### Blog Post Frontmatter (\_posts/)
 
@@ -64,7 +39,7 @@ date: YYYY-MM-DD
 categories: category-name
 description: Brief description
 ---
-```
+````
 
 **Important:** Post filenames MUST follow format: `YYYY-MM-DD-title.md` (hyphen-separated words)
 
