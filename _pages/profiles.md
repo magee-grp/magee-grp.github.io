@@ -9,7 +9,7 @@ nav_order: 7
 profiles:
   - align: right
     image: prof_pic.jpg
-    content: DDLS fellow and MIMS group leader.
+    content: _profiles/afm.md
     image_circular: false
     more_info: 
 ---

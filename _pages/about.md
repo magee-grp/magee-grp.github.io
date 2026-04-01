@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 We use evolutionary approaches to study the spread of infectious diseases.
-To do so, we develop and test statistical phylogenetic models, especially [phylodynamic models].
+To do so, we develop and test statistical phylogenetic models, especially [phylodynamic models](https://en.wikipedia.org/wiki/Viral_phylodynamics).
 We are also strongly interested in understanding model limitations, adequacy, and general trustworthiness.
 
 We thank the [SciLifeLab and Wallenberg National Program for Data-Driven Life Science](https://www.scilifelab.se/data-driven/) and the [Laboratory for Molecular Infection Medicine Sweden](https://www.umu.se/mims/) for their generous support.
