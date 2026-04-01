@@ -11,5 +11,5 @@ profiles:
     image: prof_pic.jpg
     content: _profiles/afm.md
     image_circular: false
-    more_info: 
+    more_info:
 ---
