@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: Group members
 nav: true
-nav_order: 6
+nav_order: 4
 
 profiles:
   - align: right
