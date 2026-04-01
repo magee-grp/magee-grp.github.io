@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: This page lists usernames for group members and some of their work. We also contribute to the large, long-running open source software packages [BEAST X](https://github.com/beast-dev/beast-mcmc) [RevBayes](https://github.com/revbayes/revbayes).
 nav: true
 nav_order: 3
 ---
