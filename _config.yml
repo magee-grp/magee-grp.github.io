@@ -2,15 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Phylodynamic # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Andrew
 middle_name:
 last_name: Magee
 contact_note:
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Statistical modeling at the interface of evolution and infectious diseases.
-  We thank the [SciLifeLab and Wallenberg National Program for Data-Driven Life Science](https://www.scilifelab.se/data-driven/), the [Laboratory for Molecular Infection Medicine Sweden](https://www.umu.se/mims/), and all other funders we have regrettably forgotten to name.
-  Views and opinions expressed on this site should not be construed to reflect those of any government, funding body, or person beyond the author(s).
+description:# the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
