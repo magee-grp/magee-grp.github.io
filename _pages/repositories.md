@@ -2,10 +2,13 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: This page lists usernames for group members and some of their work. We also contribute to the large, long-running open source software packages [BEAST X](https://github.com/beast-dev/beast-mcmc) [RevBayes](https://github.com/revbayes/revbayes).
+description:
 nav: true
 nav_order: 3
 ---
+
+This page lists GitHub usernames for group members and some of their work.
+We also contribute to the large, long-running open source software packages [BEAST X](https://github.com/beast-dev/beast-mcmc) [RevBayes](https://github.com/revbayes/revbayes).
 
 {% if site.data.repositories.github_users %}
 
