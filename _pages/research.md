@@ -16,7 +16,6 @@ In the group, we are interested in how we can best leverage this information to 
 Technically, in the strict sense, only the former of these is "phylodynamics," while the latter is "phylogeography."
 We look forward to a future where there is less divide between these models in practice.
 
-
 ## Reliable and trustworthy Bayesian phylogenetics
 
 Bayesian inference is a powerful statistical tool for hierarchical models, a useful framework for incorporating prior understanding into models, and a convenient framework for jointly accounting for and propagating uncertainty.
