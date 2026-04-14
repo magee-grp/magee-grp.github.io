@@ -9,6 +9,7 @@ citation: true
 ---
 
 You can view the slides from this talk here:
+
 <iframe src="{{ site.baseurl }}/assets/pdf/2026-04-13-eight-ish-challenges.pdf" width="100%" height="600px"></iframe>
 
 Or if you prefer, [download them]({{ site.baseurl }}/assets/pdf/2026-04-13-eight-ish-challenges.pdf).
