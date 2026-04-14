@@ -65,15 +65,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-eight-ish-challenges-in-bayesian-phylodynamics-11-years-later-revisiting-frost-et-al-2015",
         
-          title: "",
+          title: "Eight(ish) challenges in (Bayesian) phylodynamics, 11 years later, revisiting Frost et al. (2015)...",
         
-        description: "",
+        description: "Slides from a presentation",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-04-13-eight-ish-challenges/";
+            window.location.href = "/blog/2026/eight-ish-challenges/";
           
         },
       },{id: "news-a-simple-inline-announcement",
