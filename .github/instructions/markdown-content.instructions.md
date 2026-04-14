@@ -172,7 +172,6 @@ def hello():
 
 ```markdown
 [About Me](/about/)
-[My CV](/cv/)
 [Blog Post]({% link _posts/2023-01-15-my-post.md %})
 ```
 
