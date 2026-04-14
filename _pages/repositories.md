@@ -8,7 +8,8 @@ nav_order: 3
 ---
 
 This page lists GitHub usernames for group members and some of their work.
-We also contribute to the large, long-running open source software packages [BEAST X](https://github.com/beast-dev/beast-mcmc) [RevBayes](https://github.com/revbayes/revbayes).
+We develop in a variety of languages, primarily R and python.
+We also contribute to the large, long-running open source software packages [BEAST X](https://github.com/beast-dev/beast-mcmc) and [RevBayes](https://github.com/revbayes/revbayes).
 
 {% if site.data.repositories.github_users %}
 
