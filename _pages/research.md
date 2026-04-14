@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-## Bayesian phylodynamics
+### Bayesian phylodynamics
 
 As pathogens spread through a host population, they evolve.
 If their rate of evolution is sufficiently fast compared to the duration of infection, then the genomes of pathogens sampled from a host population contain information about the process of disease transmission.
@@ -16,7 +16,7 @@ In the group, we are interested in how we can best leverage this information to 
 Technically, in the strict sense, only the former of these is "phylodynamics," while the latter is "phylogeography."
 We look forward to a future where there is less divide between these models in practice.
 
-## Reliable and trustworthy Bayesian phylogenetics
+### Reliable and trustworthy Bayesian phylogenetics
 
 Underlying Bayesian phylodynamics is Bayesian phylogenetics.
 Bayesian inference is a powerful statistical tool for hierarchical models, a useful framework for incorporating prior understanding into models, and a convenient framework for jointly accounting for and propagating uncertainty.
