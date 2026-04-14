@@ -3,7 +3,7 @@ layout: post
 title: Eight(ish) challenges in (Bayesian) phylodynamics, 11 years later: revisiting Frost <em>et al.</em> (2015)
 date: 2026-04-13
 description: Slides from a presentation
-tags: phylodynamics, model adequacy
+tags: ["phylodynamics", "model adequacy"]
 categories: talks
 citation: true
 ---
