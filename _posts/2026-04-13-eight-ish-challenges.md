@@ -15,6 +15,6 @@ I thought it might be fun, and maybe even a bit informative, to revisit that lis
 This talk was the result, I presented it at UCI on 2026-04-13.
 My conclusion is that, as one might hope, we've made some good progress, but as one might expect, we are far from solving everything.
 
-You can view the slides from this talk below. Or if you prefer, download the slides [here]({{ site.baseurl }}/assets/pdf/2026-04-13-eight-ish-challenges.pdf).
+You can view a build-minimized set of slides from this talk below. Or if you prefer, download the original slides [here]({{ site.baseurl }}/assets/pdf/2026-04-13-eight-ish-challenges.pdf).
 
-<iframe src="{{ site.baseurl }}/assets/pdf/2026-04-13-eight-ish-challenges.pdf" width="100%" height="600px"></iframe>
+<iframe src="{{ site.baseurl }}/assets/pdf/2026-04-13-eight-ish-challenges_minimized.pdf" width="100%" height="600px"></iframe>
